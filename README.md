@@ -1,6 +1,6 @@
 ## Udemy - React Tutorial and Projects Course Project
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/)
-[Original Repo](https://github.com/john-smilga/starter-project-react-github-search-users)
+- [Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/)
+- [Original Repo](https://github.com/john-smilga/starter-project-react-github-search-users)
 
 
 ## Starter Project
